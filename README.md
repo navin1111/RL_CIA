@@ -1,4 +1,4 @@
-# CIA Projects: Recommendation System and Grid Navigation
+# RL_CIA: Recommendation System and Grid Navigation
 
 ## Overview
 This repository contains two projects focused on different applications of reinforcement learning:
